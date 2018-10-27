@@ -1,0 +1,63 @@
+body{
+    background-color:black ;
+}
+#h3index{
+    color:red;
+}
+#change{
+    float:right;
+
+}
+
+
+h4{
+    color:white;
+}
+h6{
+    color:black;
+    font-size: 15px;
+
+}
+h5{
+    color:white;
+}
+#goals{
+    color:rgb(120, 6, 143);
+}
+img{
+    height: 150px;
+    width: 100px;
+}
+p{
+    font-style: italic;
+    font-size: 20px;
+
+}
+#hobbies{
+    color: rgb(120, 6, 143);
+}
+  .aspirations{
+    color:whitesmoke;
+} 
+
+#page2{
+    background-color:red;
+}
+#h3new{
+    color: black;
+}
+h1{
+    color:white;
+}
+#page3{
+    background-color:aqua;
+
+}
+ h1{
+     color:black;
+     font-style:bold;
+     font-size:25px;
+ }
+ #p1{
+     color: blue;
+ }
